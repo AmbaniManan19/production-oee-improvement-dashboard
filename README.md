@@ -46,3 +46,7 @@ The dataset is synthetic and contains 180 machine-performance records.
 ## Project Outcome
 
 The dashboard helps identify machines with low OEE, high downtime, and high defect rates so improvement actions can be prioritized.
+
+## Dashboard Preview
+
+![Production OEE Dashboard](dashboard_preview.png)
